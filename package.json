@@ -1,0 +1,29 @@
+{
+  "name": "goit-js-hw-12-countries",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matviy101/goit-js-hw-12-countries.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/matviy101/goit-js-hw-12-countries/issues"
+  },
+  "homepage": "https://github.com/matviy101/goit-js-hw-12-countries#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "@pnotify/core": "^5.2.0",
+    "@pnotify/mobile": "^5.2.0",
+    "lodash.debounce": "^4.0.8"
+  }
+}
